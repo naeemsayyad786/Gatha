@@ -1,0 +1,19 @@
+.container{
+    
+   
+    margin: 20px;
+    text-align: center;
+    background-color: rgb(158, 157, 157);
+    width: 50%;
+    margin-left: 25%;
+}
+.heading{
+    margin-top: 30px;
+}
+.field{
+    width: 500px;
+}
+button{
+    margin: 15px;
+    padding: 20px;
+}
